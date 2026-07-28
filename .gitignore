@@ -1,0 +1,20 @@
+# Ignore all ROM zips, patched builds, and extracted folders
+*.zip
+*.zip.patched
+*.patched
+*.img
+*.bin
+*.tar.gz
+
+# Ignore APKs
+*.apk
+
+# Ignore signing keys, certs, and security tokens
+*.key
+*.pem
+*.crt
+*.pk8
+
+# Ignore unzipped ROM folders
+Signed Roms/
+Pixel3a-xl-bonito/
