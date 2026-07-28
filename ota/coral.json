@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1700000000,
+      "filename": "lineage-20.0-2024xxxx-UNOFFICIAL-coral.patched.zip",
+      "id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "romtype": "unofficial",
+      "size": 2000000000,
+      "url": "https://github.com/Preyas552/LGT-Android-Roms/releases/download/v1.0/lineage-20.0-2024xxxx-UNOFFICIAL-coral.patched.zip",
+      "version": "20.0"
+    }
+  ]
+}
